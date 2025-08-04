@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Griffy:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Griffy:wght@400&family=Rubik+Vinyl&family=Special+Elite&family=VT323&family=Marck+Script&family=Lacquer&family=Italiana&family=Kablammo&display=swap');
 
 * {
   margin: 0;
@@ -7,7 +7,7 @@
 }
 
 body {
-  font-family: 'Griffy', cursive;
+  font-family: 'Kablammo', 'Italiana', 'Lacquer', 'Marck Script', 'Special Elite', 'VT323', 'Creepster', 'Rubik Vinyl', 'Griffy', cursive;
   background-color: #000;
   color: #fff;
   overflow: hidden;
